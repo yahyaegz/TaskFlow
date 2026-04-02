@@ -3,3 +3,6 @@ node_modules
 dist
 .idea
 .vite
+logs
+playwright-report
+test-results

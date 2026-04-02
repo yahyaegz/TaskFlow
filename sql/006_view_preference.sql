@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN IF NOT EXISTS view_preference VARCHAR(20) DEFAULT 'list';
